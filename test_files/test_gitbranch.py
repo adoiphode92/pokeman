@@ -1,7 +1,4 @@
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-import time
+
 
 # Initialize WebDriver (Chrome)
 driver = webdriver.Chrome()
